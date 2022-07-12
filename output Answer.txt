@@ -1,0 +1,23 @@
+{
+    "productDTO": [
+        {
+            "itemType": "PenguinEar",
+            "noOfUnit": 25,
+            "noOfCarton": 1.0,
+            "singleUnit": 5.0,
+            "cost": 231.875,
+            "discountedCost": 231.875
+        },
+        {
+            "itemType": "horseShoe",
+            "noOfUnit": 25,
+            "noOfCarton": 5.0,
+            "singleUnit": 0.0,
+            "cost": 4125.0,
+            "discountedCost": 4125.0
+        }
+    ],
+    "totalPriceOfProducts": 4356.875,
+    "status": null,
+    "message": null
+}
